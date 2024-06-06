@@ -1,1 +1,60 @@
+# Vaarelsauce
 
+<img src="images/me.jpg" align="right" />
+
+Hey there, my name is Vinh Nguyen, and I go by `vaarelsauce` online. My field of major is in (BA) Mathematical Thinking & Visualization, with minors in Data Analytics, and Information Technology.
+
+I work in data analytics using R, and I have experience in Python and Java from my involvement in small video game projects.
+
+Outside of coding, I enjoy video and graphics editing, including animation spriting and Photoshop, which often aligns with my interest in video games and content creation.
+
+---
+
+**Social Media:**
+
+[![YouTube](icons/youtube.png)](https://youtube.com/@vaarelsauce)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/vinhviolin/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/vaarelsauce/)
+[![GitHub](icons/github.png)](https://github.com/vaarelsauce)
+
+**Currently working with:**
+
+<a href="https://www.r-project.org/" title="R"><img src="icons/r.png" /></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://www.java.com/en/download/help/whatis_java.html" title="Java"><img src="icons/java.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML" title="HTML"><img src="icons/html.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<a href="https://www.tableau.com/" title="Tableau"><img src="icons/tableau.png" /></a>
+<a href="https://en.wikipedia.org/wiki/RStudio" title="RStudio"><img src="icons/rstudio.png" /></a>
+<a href="https://www.vegascreativesoftware.com/us/vegas-pro/" title="Vegas Pro 21"><img src="icons/vegas.png" /></a>
+<a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="icons/photoshop.png" /></a>
+<a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="icons/illustrator.png" /></a>
+
+
+**Learning:**
+
+<a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="icons/sql.png" /></a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" title="Power BI"><img src="icons/powerbi.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+<a href="https://godotengine.org/" title="GoDot Engine"><img src="icons/godot.png" /></a>
+
+**Previously worked with:**
+
+<a href="https://jupyter.org/" title="Jupyter"><img src="icons/jupyter.png" /></a>
+<a href="https://en.wikipedia.org/wiki/Microsoft_Excel" title="Excel"><img src="icons/excel.png" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="icons/css.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>\
+
+**Certificates:**
+- [ACTFL Level 4 Proficiency in Vietnamese](https://www.actfl.org/about-actfl)
+- [Washington State of Biliteracy](https://ospi.k12.wa.us/student-success/resources-subject-area/world-languages/washington-state-seal-biliteracy)
+- [Microsoft Technology Associate Certificate](https://en.wikipedia.org/wiki/Microsoft_Technology_Associate)
+
+**Currently focused on these projects:**
+- [CarbonPather](https://github.com/vaarelsauce/vaarelsauce/blob/master/CarbonPather.html)
+- [Neko Needlework](https://www.instagram.com/nekoneedlework/)
+- [YomiHustle (Character Modding)](https://store.steampowered.com/app/2212330/Your_Only_Move_Is_HUSTLE/)
+
+[His name is Salmon](https://raw.githubusercontent.com/vaarelsauce/vaarelsauce/main/images/cat1.jpg)
