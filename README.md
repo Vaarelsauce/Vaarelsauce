@@ -51,7 +51,7 @@ Outside of coding, I enjoy video and graphics editing, including animation sprit
 - [Microsoft Technology Associate Certificate](https://en.wikipedia.org/wiki/Microsoft_Technology_Associate)
 
 **Currently focused on these projects:**
-- [CarbonPather](https://github.com/vaarelsauce/vaarelsauce/blob/main/CarbonPather.html)
+- [CarbonPather](https://vaarelsauce.github.io/Vaarelsauce/CarbonPather.html)
 - [Neko Needlework](https://www.instagram.com/nekoneedlework/)
 - [YomiHustle (Character Modding)](https://store.steampowered.com/app/2212330/Your_Only_Move_Is_HUSTLE/)
 
