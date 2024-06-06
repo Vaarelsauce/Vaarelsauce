@@ -19,33 +19,33 @@ Outside of coding, I enjoy video and graphics editing, including animation sprit
 
 **Currently working with:**
 
-<a href="https://www.r-project.org/" title="R"><img src="icons/r.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://www.java.com/en/download/help/whatis_java.html" title="Java"><img src="icons/java.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML" title="HTML"><img src="icons/html.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://www.tableau.com/" title="Tableau"><img src="icons/tableau.png" /></a>
-<a href="https://en.wikipedia.org/wiki/RStudio" title="RStudio"><img src="icons/rstudio.png" /></a>
-<a href="https://www.vegascreativesoftware.com/us/vegas-pro/" title="Vegas Pro 21"><img src="icons/vegas.png" /></a>
-<a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="icons/photoshop.png" /></a>
-<a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="icons/illustrator.png" /></a>
+<a href="https://www.r-project.org/" title="R"><img src="icons/r.png" width="32" height="32"/></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" width="32" height="32"/></a>
+<a href="https://www.java.com/en/download/help/whatis_java.html" title="Java"><img src="icons/java.png" width="32" height="32"/></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" width="32" height="32"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML" title="HTML"><img src="icons/html.png" width="32" height="32"/></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" width="32" height="32"/></a>
+<a href="https://www.tableau.com/" title="Tableau"><img src="icons/tableau.png" width="32" height="32"/></a>
+<a href="https://en.wikipedia.org/wiki/RStudio" title="RStudio"><img src="icons/rstudio.png" width="32" height="32"/></a>
+<a href="https://www.vegascreativesoftware.com/us/vegas-pro/" title="Vegas Pro 21"><img src="icons/vegas.png" width="32" height="32"/></a>
+<a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="icons/photoshop.png" width="32" height="32"/></a>
+<a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="icons/illustrator.png" width="32" height="32"/></a>
 
 
 **Learning:**
 
-<a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="icons/sql.png" /></a>
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" title="Power BI"><img src="icons/powerbi.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://godotengine.org/" title="GoDot Engine"><img src="icons/godot.png" /></a>
+<a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="icons/sql.png" width="32" height="32"/></a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" title="Power BI"><img src="icons/powerbi.png" width="32" height="32"/></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" width="32" height="32"/></a>
+<a href="https://godotengine.org/" title="GoDot Engine"><img src="icons/godot.png" width="32" height="32"/></a>
 
 **Previously worked with:**
 
-<a href="https://jupyter.org/" title="Jupyter"><img src="icons/jupyter.png" /></a>
-<a href="https://en.wikipedia.org/wiki/Microsoft_Excel" title="Excel"><img src="icons/excel.png" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="icons/css.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>\
+<a href="https://jupyter.org/" title="Jupyter"><img src="icons/jupyter.png" width="32" height="32"/></a>
+<a href="https://en.wikipedia.org/wiki/Microsoft_Excel" title="Excel"><img src="icons/excel.png" width="32" height="32"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="icons/css.png" width="32" height="32"/></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" width="32" height="32"/></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" width="32" height="32"/></a>
 
 **Certificates:**
 - [ACTFL Level 4 Proficiency in Vietnamese](https://www.actfl.org/about-actfl)
