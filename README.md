@@ -2,7 +2,7 @@
 
 <img src="images/me.jpg" align="right" />
 
-Hey there, my name is Vinh Nguyen, and I go by `vaarelsauce` online. My field of major is in (BA) Mathematical Thinking & Visualization, with minors in Data Analytics, and Information Technology.
+Hey there, my name is Vinh Nguyen, and I go by `vaarelsauce` online. My field of major is in (BA) Mathematical Thinking & Visualization, with minors in Data Analytics and Information Technology.
 
 I work in data analytics using R, and I have experience in Python and Java from my involvement in small video game projects.
 
@@ -30,7 +30,6 @@ Outside of coding, I enjoy video and graphics editing, including animation sprit
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="icons/photoshop.png" width="32" height="32"/></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="icons/illustrator.png" width="32" height="32"/></a>
 
-
 **Learning:**
 
 <a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="icons/sql.png" width="32" height="32"/></a>
@@ -56,4 +55,4 @@ Outside of coding, I enjoy video and graphics editing, including animation sprit
 - [Neko Needlework](https://www.instagram.com/nekoneedlework/)
 - [YomiHustle (Character Modding)](https://store.steampowered.com/app/2212330/Your_Only_Move_Is_HUSTLE/)
 
-[His name is Salmon](https://raw.githubusercontent.com/vaarelsauce/vaarelsauce/main/images/cat1.jpg)
+[🤠Salmon😸](https://raw.githubusercontent.com/vaarelsauce/vaarelsauce/main/images/cat1.jpg)
