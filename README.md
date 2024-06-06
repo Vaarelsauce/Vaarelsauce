@@ -2,7 +2,7 @@
 
 <img src="images/me.jpg" align="right" />
 
-Hey there, my name is Vinh Nguyen, and I go by `vaarelsauce` online. My field of major is in (BA) Mathematical Thinking & Visualization, with minors in Data Analytics and Information Technology.
+Hi, my name is Vinh Nguyen, and I go by `vaarelsauce` on online platforms. My field of major is in (BA) Mathematical Thinking & Visualization, with minors in Data Analytics and Information Technology.
 
 I work in data analytics using R, and I have experience in Python and Java from my involvement in small video game projects.
 
@@ -43,7 +43,6 @@ Outside of coding, I enjoy video and graphics editing, including animation sprit
 <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" title="Excel"><img src="icons/excel.png" width="32" height="32"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="icons/css.png" width="32" height="32"/></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" width="32" height="32"/></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" width="32" height="32"/></a>
 
 **Certificates:**
 - [ACTFL Level 4 Proficiency in Vietnamese](https://www.actfl.org/about-actfl)
