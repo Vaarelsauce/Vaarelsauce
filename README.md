@@ -15,7 +15,6 @@ Outside of coding, I enjoy video and graphics editing, including animation sprit
 [![YouTube](icons/youtube.png)](https://youtube.com/@vaarelsauce)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/vinhviolin/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/vaarelsauce/)
-[![GitHub](icons/github.png)](https://github.com/vaarelsauce)
 
 **Currently working with:**
 
