@@ -2,9 +2,9 @@
 
 <img src="images/me.jpg" align="right" />
 
-Hi, my name is Vinh Nguyen, and I go by `vaarelsauce` on online platforms. My field of major is in (BA) Mathematical Thinking & Visualization, with minors in Data Analytics and Information Technology.
+Hello world, my name is Vinh Nguyen, and I go by `vaarelsauce` on online platforms. My field of major is in (BA) Mathematical Thinking & Visualization, with minors in Data Analytics and Information Technology.
 
-I work in data analytics using R, and I have experience in Python and Java from my involvement in small video game projects.
+I work in data analytics using R, and I have experience in Python and Java from my involvement working with indie projects.
 
 Outside of coding, I enjoy video and graphics editing, including animation spriting and Photoshop, which often aligns with my interest in video games and content creation.
 
