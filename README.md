@@ -30,7 +30,9 @@ Outside of coding, I enjoy video and graphics editing, including animation sprit
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" width="32" height="32"/></a>
 <a href="https://www.tableau.com/" title="Tableau"><img src="icons/tableau.png" width="32" height="32"/></a>
 <a href="https://en.wikipedia.org/wiki/RStudio" title="RStudio"><img src="icons/rstudio.png" width="32" height="32"/></a>
+
 <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" title="Vegas Pro 21"><img src="icons/vegas.png" width="32" height="32"/></a>
+<a href="https://www.adobe.com/products/premiere.html" title="Adobe Premiere Pro"><img src="icons/premiere.png" width="32" height="32"/></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="icons/photoshop.png" width="32" height="32"/></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="icons/illustrator.png" width="32" height="32"/></a>
 <a href="https://www.clipstudio.net/" title="Clip Studio Paint"><img src="icons/clipstudiopaint.png" width="32" height="32"/></a>
