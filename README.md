@@ -5,6 +5,7 @@
 -->
 
 **ABOUT ME**
+
 Hello world, my name is Vinh Nguyen, and currently a senior @ University of Washington. My field of major is in (BA) Mathematical Thinking & Visualization, with minors in Data Analytics and Information Technology.
 
 I work in data analytics using R, and am familiar with Python & Java through various project collaborations.
