@@ -4,7 +4,7 @@
 <img src="images/me.jpg" align="right" />
 -->
 
-**ABOUT ME**
+**About Me:**
 
 Hello world, my name is Vinh Nguyen, and currently a senior @ University of Washington. My field of major is in (BA) Mathematical Thinking & Visualization, with minors in Data Analytics and Information Technology.
 
