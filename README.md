@@ -1,12 +1,15 @@
 # Vaarelsauce
 
+<!-- 
 <img src="images/me.jpg" align="right" />
+-->
 
-Hello world, my name is Vinh Nguyen, and I go by `vaarelsauce` on online platforms. My field of major is in (BA) Mathematical Thinking & Visualization, with minors in Data Analytics and Information Technology.
+**ABOUT ME**
+Hello world, my name is Vinh Nguyen, and currently a senior @ University of Washington. My field of major is in (BA) Mathematical Thinking & Visualization, with minors in Data Analytics and Information Technology.
 
-I work in data analytics using R, and I have experience in Python and Java from my involvement working with indie projects.
+I work in data analytics using R, and am familiar with Python & Java through various project collaborations.
 
-Outside of coding, I enjoy video and graphics editing, including animation spriting and Photoshop, which often aligns with my interest in video games and content creation.
+Outside of coding, I enjoy video and graphics editing, including animation spriting and Photoshop, which often aligns with my interest in content creation.
 
 ---
 
@@ -29,6 +32,7 @@ Outside of coding, I enjoy video and graphics editing, including animation sprit
 <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" title="Vegas Pro 21"><img src="icons/vegas.png" width="32" height="32"/></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="icons/photoshop.png" width="32" height="32"/></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="icons/illustrator.png" width="32" height="32"/></a>
+<a href="https://www.clipstudio.net/" title="Clip Studio Paint"><img src="icons/clipstudiopaint.png" width="32" height="32"/></a>
 
 **Learning:**
 
@@ -53,5 +57,3 @@ Outside of coding, I enjoy video and graphics editing, including animation sprit
 - [CarbonPather](https://vaarelsauce.github.io/Vaarelsauce/CarbonPather.html)
 - [Neko Needlework](https://www.instagram.com/nekoneedlework/)
 - [YomiHustle (Character Modding)](https://store.steampowered.com/app/2212330/Your_Only_Move_Is_HUSTLE/)
-
-[🤠Salmon😸](https://raw.githubusercontent.com/vaarelsauce/vaarelsauce/main/images/cat1.jpg)
