@@ -6,11 +6,11 @@
 
 **About Me:**
 
-Hi world, my name is Vinh, graduate @ University of Washington-Bothell. My field of major is in (BA) Mathematical Thinking & Visualization, with minors in Data Analytics and Information Technology.
+Hi world, my name is Vinh, graduate @ University of Washington-Bothell. My field of major is in (BA) Mathematical Thinking & Visualization, with minors in DA & IT.
 
-I work in data analytics using R, having familiarized with Python & Java through various project collaborations.
+I work in data analytics using R, having familiarized with Python & Java through various project collaborations. Tableau, Power BI, and other analysis/reporting tools are also under my belt.
 
-Outside of coding, I enjoy video and graphics editing, including animation spriting and Photoshop, which often aligns with my interest in content creation and similar creative works.
+Outside of coding, I enjoy video and graphics editing, including animation spriting and Photoshop, which often aligns with my interest in content creation and similar creative works. I'm also a gamer and show-binger. 👍
 
 ---
 
